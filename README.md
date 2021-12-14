@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- Trabalho com Desenvolvimento de Jogos
+- Desenvolvedor de Jogos (Norde Studios)
 - Unity C#
 - Amo Jogar e Desenvolver 
 

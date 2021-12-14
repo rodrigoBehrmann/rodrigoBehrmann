@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 Trabalho com Desenvolvimento de Jogos
-- 🌱 Estudando Unity C#
-- ⚡ Amo Jogar e Desenvolver 
+- Trabalho com Desenvolvimento de Jogos
+- Unity C#
+- Amo Jogar e Desenvolver 
 
 <div align="center">
   <a href="https://github.com/rodrigoBehrmann">

@@ -1,7 +1,7 @@
 ### Iai, beleza? 👋
 
 
-- Desenvolvedor de Jogos (Norde Studios)
+- Desenvolvedor de Jogos
 - Unity C#
 - Amo Jogar e Desenvolver 
 

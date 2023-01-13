@@ -1,4 +1,4 @@
-### Iai, beleza? 👋
+### Iai, beleza! 👋
 
 
 - Desenvolvedor de Jogos
